@@ -1,0 +1,39 @@
+body, html { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+}
+#div1{
+    background-color: black;
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+#div2{
+    background-color: black;
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+
+#div3{
+    background-color: black;
+    height: 50%;
+    width: 50%;
+    float: left;
+}   
+
+#div4{
+    background-color: purple;
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+    
+.circle {
+        height: 100%;
+        width: 100%;
+        background-color: orange;
+        border-radius: 50%;
+
+}

@@ -1,0 +1,26 @@
+body, html { 
+    height: 50%; 
+    margin: 0; 
+    padding: 0;
+}
+#div1{
+    background-color: beige;
+ display: "webkit-inline-box"
+
+ 
+    height 50
+    width 100%
+    float right;
+}
+
+
+
+  img {
+            border-radius: 50%;
+            height: 45%;
+            width: 25%;
+}
+
+h2 {
+    float: right;
+}
